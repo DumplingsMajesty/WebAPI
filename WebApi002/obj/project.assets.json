@@ -437,25 +437,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/YaoNing/.nuget/packages/": {}
+    "C:\\Users\\YaoNing\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/YaoNing/Projects/WebAPI/WebApi002/WebApi002.csproj",
+      "projectUniqueName": "C:\\Users\\YaoNing\\Source\\Repos\\DumplingsMajesty\\WebAPI\\WebApi002\\WebApi002.csproj",
       "projectName": "WebApi002",
-      "projectPath": "/Users/YaoNing/Projects/WebAPI/WebApi002/WebApi002.csproj",
-      "packagesPath": "/Users/YaoNing/.nuget/packages/",
-      "outputPath": "/Users/YaoNing/Projects/WebAPI/WebApi002/obj/",
+      "projectPath": "C:\\Users\\YaoNing\\Source\\Repos\\DumplingsMajesty\\WebAPI\\WebApi002\\WebApi002.csproj",
+      "packagesPath": "C:\\Users\\YaoNing\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\YaoNing\\Source\\Repos\\DumplingsMajesty\\WebAPI\\WebApi002\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/YaoNing/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\YaoNing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/sdk/7.0.311/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -498,7 +499,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
