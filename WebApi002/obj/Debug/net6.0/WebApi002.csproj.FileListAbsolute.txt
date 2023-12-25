@@ -1,3 +1,10 @@
+/Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/WebApi002.csproj.AssemblyReference.cache
+/Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/WebApi002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/WebApi002.AssemblyInfoInputs.cache
+/Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/WebApi002.AssemblyInfo.cs
+/Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/WebApi002.csproj.CoreCompileInputs.cache
+/Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/WebApi002.MvcApplicationPartsAssemblyInfo.cs
+/Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/WebApi002.MvcApplicationPartsAssemblyInfo.cache
 /Users/YaoNing/Projects/WebAPI/WebApi002/bin/Debug/net6.0/appsettings.Development.json
 /Users/YaoNing/Projects/WebAPI/WebApi002/bin/Debug/net6.0/appsettings.json
 /Users/YaoNing/Projects/WebAPI/WebApi002/bin/Debug/net6.0/WebApi002
@@ -9,13 +16,6 @@
 /Users/YaoNing/Projects/WebAPI/WebApi002/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/YaoNing/Projects/WebAPI/WebApi002/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/YaoNing/Projects/WebAPI/WebApi002/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/WebApi002.csproj.AssemblyReference.cache
-/Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/WebApi002.GeneratedMSBuildEditorConfig.editorconfig
-/Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/WebApi002.AssemblyInfoInputs.cache
-/Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/WebApi002.AssemblyInfo.cs
-/Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/WebApi002.csproj.CoreCompileInputs.cache
-/Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/WebApi002.MvcApplicationPartsAssemblyInfo.cs
-/Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/WebApi002.MvcApplicationPartsAssemblyInfo.cache
 /Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/staticwebassets/msbuild.WebApi002.Microsoft.AspNetCore.StaticWebAssets.props
 /Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/staticwebassets/msbuild.build.WebApi002.props
 /Users/YaoNing/Projects/WebAPI/WebApi002/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.WebApi002.props
