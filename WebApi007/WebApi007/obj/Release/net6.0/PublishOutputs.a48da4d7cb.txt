@@ -1,0 +1,11 @@
+C:\Users\YaoNing\source\repos\DumplingsMajesty\WebAPI\WebApi007\WebApi007\obj\Release\net6.0\PubTmp\Out\WebApi007.exe
+C:\Users\YaoNing\source\repos\DumplingsMajesty\WebAPI\WebApi007\WebApi007\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\YaoNing\source\repos\DumplingsMajesty\WebAPI\WebApi007\WebApi007\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\YaoNing\source\repos\DumplingsMajesty\WebAPI\WebApi007\WebApi007\obj\Release\net6.0\PubTmp\Out\WebApi007.dll
+C:\Users\YaoNing\source\repos\DumplingsMajesty\WebAPI\WebApi007\WebApi007\obj\Release\net6.0\PubTmp\Out\WebApi007.deps.json
+C:\Users\YaoNing\source\repos\DumplingsMajesty\WebAPI\WebApi007\WebApi007\obj\Release\net6.0\PubTmp\Out\WebApi007.runtimeconfig.json
+C:\Users\YaoNing\source\repos\DumplingsMajesty\WebAPI\WebApi007\WebApi007\obj\Release\net6.0\PubTmp\Out\WebApi007.pdb
+C:\Users\YaoNing\source\repos\DumplingsMajesty\WebAPI\WebApi007\WebApi007\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\YaoNing\source\repos\DumplingsMajesty\WebAPI\WebApi007\WebApi007\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\YaoNing\source\repos\DumplingsMajesty\WebAPI\WebApi007\WebApi007\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\YaoNing\source\repos\DumplingsMajesty\WebAPI\WebApi007\WebApi007\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
