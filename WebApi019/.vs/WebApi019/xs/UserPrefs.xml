@@ -1,4 +1,31 @@
 ﻿<Properties StartupConfiguration="{71111CDF-2D93-433D-A8DF-BF1BE2690D83}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.WebApi019 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherForecast.cs">
+    <Files>
+      <File FileName="Program.cs" Line="15" Column="43" />
+      <File FileName="Controllers/WeatherForecastController.cs" Line="30" Column="84" />
+      <File FileName="WeatherForecast.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApi019" expanded="True">
+            <Node name="WebApi019">
+              <Node name="Controllers" expanded="True" />
+              <Node name="WeatherForecast.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WebApi019 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>
