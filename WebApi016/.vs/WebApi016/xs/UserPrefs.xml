@@ -1,5 +1,31 @@
-﻿<Properties StartupConfiguration="{D6C6CE29-E410-4911-A575-86C5691F9007}|Default">
+﻿<Properties StartupConfiguration="{44D6578C-FC76-43DD-A5EE-5969F5045658}|Default">
   <MonoDevelop.Ide.ItemProperties.WebApi016 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.WebApplication001 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.WebApplication001 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../WebApplication001/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="../WebApplication001/Controllers/ValuesController.cs" Line="25" Column="34" />
+      <File FileName="Program.cs" Line="21" Column="1" />
+      <File FileName="../WebApplication001/Program.cs" Line="48" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApi016" expanded="True">
+            <Node name="WebApplication001" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
