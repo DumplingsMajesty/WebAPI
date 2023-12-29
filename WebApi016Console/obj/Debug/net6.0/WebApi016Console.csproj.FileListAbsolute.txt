@@ -1,0 +1,15 @@
+/Users/YaoNing/Projects/WebAPI/WebApi016Console/bin/Debug/net6.0/WebApi016Console
+/Users/YaoNing/Projects/WebAPI/WebApi016Console/bin/Debug/net6.0/WebApi016Console.deps.json
+/Users/YaoNing/Projects/WebAPI/WebApi016Console/bin/Debug/net6.0/WebApi016Console.runtimeconfig.json
+/Users/YaoNing/Projects/WebAPI/WebApi016Console/bin/Debug/net6.0/WebApi016Console.dll
+/Users/YaoNing/Projects/WebAPI/WebApi016Console/bin/Debug/net6.0/WebApi016Console.pdb
+/Users/YaoNing/Projects/WebAPI/WebApi016Console/obj/Debug/net6.0/WebApi016Console.csproj.AssemblyReference.cache
+/Users/YaoNing/Projects/WebAPI/WebApi016Console/obj/Debug/net6.0/WebApi016Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YaoNing/Projects/WebAPI/WebApi016Console/obj/Debug/net6.0/WebApi016Console.AssemblyInfoInputs.cache
+/Users/YaoNing/Projects/WebAPI/WebApi016Console/obj/Debug/net6.0/WebApi016Console.AssemblyInfo.cs
+/Users/YaoNing/Projects/WebAPI/WebApi016Console/obj/Debug/net6.0/WebApi016Console.csproj.CoreCompileInputs.cache
+/Users/YaoNing/Projects/WebAPI/WebApi016Console/obj/Debug/net6.0/WebApi016Console.dll
+/Users/YaoNing/Projects/WebAPI/WebApi016Console/obj/Debug/net6.0/refint/WebApi016Console.dll
+/Users/YaoNing/Projects/WebAPI/WebApi016Console/obj/Debug/net6.0/WebApi016Console.pdb
+/Users/YaoNing/Projects/WebAPI/WebApi016Console/obj/Debug/net6.0/WebApi016Console.genruntimeconfig.cache
+/Users/YaoNing/Projects/WebAPI/WebApi016Console/obj/Debug/net6.0/ref/WebApi016Console.dll
